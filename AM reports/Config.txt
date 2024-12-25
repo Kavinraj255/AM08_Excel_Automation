@@ -1,0 +1,20 @@
+﻿{
+
+"URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/zurichAssetConfigManagement/Shared%20Documents/SNOW%20Extract/2023?csf=1&web=1&e=ipHGY8" ,
+"Mexico_URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Mexico/2023?csf=1&web=1&e=IrzU70" ,
+"Ecuador_URL"  :"https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Ecuador/2023?csf=1&web=1&e=EqhfZu" ,
+"Columbia_URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Colombia/2023?csf=1&web=1&e=sdEYiO" ,
+"Chile_URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Chile/2023?csf=1&web=1&e=iw8Gng" ,
+"Argentina_URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Argentina/2023?csf=1&web=1&e=ucqn2Q" ,
+"Brazil_URL" : "https://dxcportal.sharepoint.com/:f:/r/sites/ewpMexicoLatam/Shared%20Documents/RPA_BOT_Files/Brazil/2023?csf=1&web=1&e=9pMi7K" ,
+
+"ToPassMailRecipient" : "kavinraj.n@dxc.com" ,
+
+"ccPassMailRecipient":"" ,
+
+"ToFailMailRecipient" : "kavinraj.n@dxc.com" ,
+
+"ccFailMailRecipient" : "" 
+
+
+}
